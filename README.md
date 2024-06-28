@@ -22,7 +22,7 @@ Here is a list of the technologies and tools I work with:
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=brown)
 ![Firebase](https://img.shields.io/badge/-Firebase-4479A1?style=flat-square&logo=firebase&logoColor=white)
 
 ### Other Languages
