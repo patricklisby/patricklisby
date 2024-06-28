@@ -9,6 +9,7 @@ Here is a list of the technologies and tools I work with:
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,11 +22,11 @@ Here is a list of the technologies and tools I work with:
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-4479A1?style=flat-square&logo=php&logoColor=white)
 
 ### Other Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-
+![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=white)
 ## 📫 Contact
 
 - **LinkedIn:** [Patrick Lisby](www.linkedin.com/in/patricklisby)
