@@ -22,7 +22,8 @@ Here is a list of the technologies and tools I work with:
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-4479A1?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-4479A1?style=flat-square&logo=firebase&logoColor=white)
 
 ### Other Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
