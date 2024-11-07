@@ -31,5 +31,5 @@ Here is a list of the technologies and tools I work with:
 ## 📫 Contact
 
 - **LinkedIn:** [Patrick Lisby](www.linkedin.com/in/patricklisby)
-
+- **Portfolio:** [Patrick Lisby](https://patricklisby.com/)
 Thank you for visiting my GitHub profile! I am always looking for new opportunities to learn and grow. Feel free to contact me for collaborations or interesting projects.
