@@ -14,6 +14,7 @@ Here is a list of the technologies and tools I work with:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3880FF?style=flat-square&logo=typescript&logoColor=white)
 
 ### Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
