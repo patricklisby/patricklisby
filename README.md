@@ -1,14 +1,12 @@
-<!-- 🌟 GITHUB PROFILE README – Patrick Lisby -->
-
 ---
 
 ## 👨‍💻 About Me
 
 💼 I’m a **Full Stack Developer** and **Business Informatics Professional** from Limón, Costa Rica 🇨🇷.  
-🚀 I specialize in building **web systems for business process automation, data management, and digital transformation**.  
-🔐 My work integrates **software engineering and information security** principles to deliver efficient and reliable solutions.  
+🚀 I specialize in building **web systems for business process automation, sports management, and financial control**.  
+🔐 My work integrates **software engineering** principles with practical business logic to deliver efficient, secure, and scalable solutions.
 
-I have developed and deployed **Laravel**, **React**, and **Node.js** applications with **MySQL** and **SQL Server**, helping small and medium-sized businesses optimize operations, control inventory, and improve customer experiences.
+I have extensive experience developing and deploying applications using **Laravel**, **Inertia.js**, and **React**, backed by **MySQL**. My goal is to help organizations optimize operations, digitize workflows, and improve data accessibility.
 
 💬 *"Technology becomes powerful when it simplifies complexity and empowers people."*
 
@@ -17,22 +15,21 @@ I have developed and deployed **Laravel**, **React**, and **Node.js** applicatio
 ## ⚙️ Tech Stack
 
 ### 🧩 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### ⚙️ Backend & Scripting
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -49,8 +46,6 @@ I have developed and deployed **Laravel**, **React**, and **Node.js** applicatio
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -58,9 +53,9 @@ I have developed and deployed **Laravel**, **React**, and **Node.js** applicatio
 
 | 💡 Project | 🔍 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
-| **MiniSuper Cubahama** | Full inventory and POS management system for local stores with dynamic stock alerts and reports. | Laravel, Livewire, MySQL, TailwindCSS |
-| **Voleibol Caribe** | Platform for managing teams, rosters, and tournaments for local volleyball associations. | React, Node.js, Firebase |
-| **GellyFish** | Startup project: collagen-based jelly desserts with natural fruit flavors and branding site. | HTML, CSS, Bootstrap, JS |
+| **Voleibol Caribe** | Comprehensive sports management platform. Handles athlete rosters, match scheduling, training attendance, and financial tracking for sports associations. | Laravel 11, Inertia.js, React, MySQL, Tailwind |
+| **Pulpería Cubahama** | Web-based Point of Sale (POS) and inventory management system customized for local retail needs. | Laravel, MySQL, Tailwind CSS |
+| **Accounting Automation** | Custom financial application for creating journal entries, T-accounts, and generating financial statements (Balance Sheet, Income Statement). | Excel, VBA |
 | **Portfolio Website** | Personal website showcasing academic, professional, and freelance projects. | React, TailwindCSS, Vercel |
 
 ---
@@ -94,5 +89,5 @@ I have developed and deployed **Laravel**, **React**, and **Node.js** applicatio
 
 <div align="center">
   <i>⭐ “Continuous learning and adaptability define real innovation.”</i><br/>
-  © 2025 Patrick Lisby | Limón, Costa Rica 🌴
+  © 2026 Patrick Lisby | Limón, Costa Rica 🇨🇷
 </div>
