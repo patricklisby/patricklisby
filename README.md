@@ -1,17 +1,25 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hey, I'm Patrick Lisby
+# Patrick Lisby
+### Full Stack Developer • Software Engineer • Business Informatics Professional
 
-### 💻 Full Stack Developer • Business Informatics Professional • Software Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+TypeScript;Business+Process+Automation;Sports+Management+Platforms;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=3BA4F2&center=true&vCenter=true&width=850&lines=Building+Scalable+Digital+Solutions;Full+Stack+Developer+from+Costa+Rica;Laravel+%7C+React+%7C+TypeScript+Specialist;Business+Automation+%26+Sports+Platforms;Focused+on+Real+World+Impact" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://patricklisby.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patricklisby)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisby2103@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/patricklisby?style=for-the-badge)](https://github.com/patricklisby)
+<a href="https://patricklisby.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/patricklisby">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:lisby2103@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=patricklisby&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -19,64 +27,175 @@
 
 # 🚀 About Me
 
-```ts
-const patrick = {
-    location: "Limón, Costa Rica 🇨🇷",
+```typescript
+const patrickLisby = {
     role: "Full Stack Developer",
-    education: [
-        "Business Informatics - University of Costa Rica",
-        "Information Systems Engineering (Cybersecurity Emphasis)"
-    ],
-    currentFocus: [
+    location: "Costa Rica 🇨🇷",
+    
+    specialties: [
         "Business Process Automation",
-        "Sports Management Systems",
-        "Financial Control Platforms",
-        "Scalable Web Applications"
+        "Sports Management Platforms",
+        "Scalable Web Applications",
+        "Financial Control Systems"
     ],
-    techStack: {
+
+    currentlyWorkingWith: {
         frontend: ["React", "TypeScript", "Inertia.js", "TailwindCSS"],
-        backend: ["Laravel", "PHP", "Node.js", ".NET"],
-        databases: ["MySQL", "SQL Server", "Firebase"],
+        backend: ["Laravel", "PHP", ".NET", "Node.js"],
+        databases: ["MySQL", "SQL Server", "Firebase"]
     },
-    philosophy: "Technology becomes powerful when it simplifies complexity and empowers people."
+
+    philosophy: "Technology should simplify complexity and create real impact."
 };
 ```
 
-💼 Passionate about designing and developing systems that combine **software engineering**, **business logic**, and **real-world usability**.
+I am a **Full Stack Developer** passionate about building systems that combine:
 
-⚡ Specialized in building platforms focused on:
-- 📊 Business automation
-- 🏐 Sports management
-- 💰 Financial systems
-- 🔐 Secure and scalable architectures
+- ⚡ Performance & scalability  
+- 🔐 Secure software architecture  
+- 📊 Business-oriented solutions  
+- 🌍 Real-world operational impact  
 
-🌱 Always learning new technologies and improving development workflows to create modern and impactful digital solutions.
+My focus is creating modern applications that help organizations optimize workflows, automate processes, and improve operational efficiency through technology.
+
+---
+
+# 💼 Professional Focus
+
+<div align="center">
+
+| Area | Description |
+|------|-------------|
+| 💻 Full Stack Development | Modern web applications with scalable architecture |
+| 📊 Business Automation | Digital transformation and operational optimization |
+| 🏐 Sports Management Systems | Athlete administration, attendance, and financial platforms |
+| 🔐 Secure Systems | Information security oriented development |
+| ☁️ Cloud & Deployment | Production-ready deployments and hosting environments |
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
+## Frontend Technologies
 
-## 🎨 Frontend Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,bootstrap,vite" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Backend Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,dotnet" />
+</p>
+
+## Databases & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,postman,vscode,figma" />
+</p>
 
 ---
 
-## ⚙️ Backend & Programming
+# 📌 Featured Projects
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🏐 Voleibol Caribe Platform
+
+Comprehensive sports management platform focused on:
+- Athlete management
+- Training attendance
+- Financial control
+- Match scheduling
+- Administrative workflows
+
+### Stack
+`Laravel 11` • `React` • `Inertia.js` • `MySQL` • `TailwindCSS`
+
+---
+
+## 🏪 Pulpería Cubahama
+
+Retail management and Point of Sale (POS) system designed for local business operations.
+
+### Features
+- Inventory control
+- Sales management
+- Product administration
+- Business analytics
+
+### Stack
+`Laravel` • `MySQL` • `TailwindCSS`
+
+---
+
+## 📊 Accounting Automation System
+
+Custom accounting automation software for:
+- Journal entries
+- Financial statements
+- T-accounts
+- Accounting calculations
+
+### Stack
+`Excel VBA`
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricklisby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklisby&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=patricklisby&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Expand expertise in scalable architectures
+- ☁️ Strengthen cloud computing knowledge
+- 🔐 Deepen cybersecurity specialization
+- 🌎 Collaborate on international software projects
+- 🤖 Integrate AI-assisted workflows into modern systems
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://patricklisby.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/patricklisby">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/patricklisby">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lisby2103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ “Continuous learning and adaptability define real innovation.”
+
+### Building technology that creates impact.
 
 </div>
